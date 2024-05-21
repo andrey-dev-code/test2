@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "description": "test description",
+  "marketplace": "getgems.io",
+  "social_links": [
+    "https://t.me/durov"
+  ],
+  "image": "https://raw.githubusercontent.com/andrey-dev-code/img/main/dapp.jpg"
+}
